@@ -1,2 +1,11 @@
 {
+    "location.RegionPicker.label": "Region",
+    "location.DistrictPicker.label": "City",
+    "location.locationType.0": "Region",
+    "location.locationType.1": "City",
+    "location.Location2Picker.label": "Sub-city",
+    "location.locationType.R": "Region",
+    "insuree.FamilyTypePicker.label": "Family/Group Type",
+    "insuree.ConfirmationTypePicker.label": "Woreda and H. No.",
+    "insuree.familySummaries.confirmationNo": "P.O.Box"
 }

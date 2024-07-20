@@ -1,9 +1,9 @@
 {
-  "name": "@openimis/fe-language_en_gmb",
+  "name": "@openimis/fe-language_en",
   "version": "1.0.0",
   "license": "AGPL-3.0-only",
   "description": "openIMIS Frontend Language package for english gambia module",
-  "repository": "openimis/openimis-fe-language_en_gmb_js",
+  "repository": "habeshabro/openimis-fe-language_en_gmb_js",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "engines": {
