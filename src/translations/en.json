@@ -1,5 +1,5 @@
 {
-    "location.RegionPicker.label": "Regionn",
+    "location.RegionPicker.label": "Region",
     "location.DistrictPicker.label": "City",
     "location.locationType.0": "Regionn",
     "location.locationType.1": "City",
@@ -25,5 +25,6 @@
     "product.district": "City",
     "location.Location1Picker.label": "City",
     "claim.ClaimFilter.district": "City",
-    "insuree.label.districtFSP": "City of FSP"
+    "insuree.label.districtFSP": "City of FSP",
+    "insuree.Insuree.chfId": "Policy No"
 }
